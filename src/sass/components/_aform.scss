@@ -1,0 +1,12 @@
+.aform{
+	border: 1px solid rgba(133, 147, 159, 0.5);
+	background-color: transparent;
+	color: #85939f;
+	font-size: 12px;
+	padding: 10px 25px 10px 15px;
+	outline: none;
+	width: 240px;
+	&-search{
+		position: relative;
+	}
+}

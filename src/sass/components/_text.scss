@@ -1,0 +1,36 @@
+.text{
+	font-size: 18px;
+	font-weight: $font-weight-slim;
+	width: 740px;
+	margin: 0 auto;
+	&-gray{
+		color: #3b4954;
+	}
+	&-white{
+		color: #fff;
+	}
+	&-works{
+		color: #02baab;
+		font-size: 11px;
+		line-height: 1.8;
+	}
+	&-amber{
+		p{
+			color: #ffffff;
+			font-size: 24px;
+			line-height: 1.5;
+			padding-top: 11px;
+		}		
+	}
+	&-center{
+		margin-top: 30px;
+	}
+	&-inner{
+		&-gray{
+			color: #3b4954;
+			font-size: 14px;
+			font-weight: 300;
+			line-height: 24px;
+		}
+	}
+}
