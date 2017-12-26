@@ -1,9 +1,4 @@
 import React, { Component } from 'react';
-import photoslider1 from '../img/photo-slider-1.jpg';
-import photoslider2 from '../img/photo-slider-2.jpeg';
-import photoslider3 from '../img/photo-slider-3.png';
-import photoslider4 from '../img/photo-slider-4.jpeg';
-import photoslider5 from '../img/photo-slider-5.jpg';
 
 class Header extends Component {
   render() {
@@ -27,19 +22,19 @@ class Header extends Component {
       </ol>
       <div className="carousel-inner">
         <div className="carousel-item active height-vh">
-          <img className="d-block w-100" src={photoslider1} alt="First slide" />
+          <img className="d-block w-100" src="img/photo-slider-1.jpg" alt="First slide" />
         </div>
         <div className="carousel-item height-vh">
-          <img className="d-block w-100" src={photoslider2} alt="Second slide" />
+          <img className="d-block w-100" src="img/photo-slider-2.jpeg" alt="Second slide" />
         </div>
         <div className="carousel-item height-vh">
-          <img className="d-block w-100" src={photoslider3} alt="Third slide" />
+          <img className="d-block w-100" src="img/photo-slider-3.png" alt="Third slide" />
         </div>
         <div className="carousel-item height-vh">
-          <img className="d-block w-100" src={photoslider4} alt="Third slide" />
+          <img className="d-block w-100" src="img/photo-slider-4.jpeg" alt="Third slide" />
         </div>
         <div className="carousel-item height-vh">
-          <img className="d-block w-100" src={photoslider5} alt="Third slide" />
+          <img className="d-block w-100" src="img/photo-slider-5.jpg" alt="Third slide" />
         </div>
       </div>
     </div>

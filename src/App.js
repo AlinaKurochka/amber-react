@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Advertising from './components/Advertising';
+import Works from './components/Works';
+
 import './css/bootstrap.css';
 import './App.css';
 
@@ -12,6 +14,8 @@ class App extends Component {
         <Navbar />
         <Header />
         <Advertising />
+        <Works />
+        <Amber />
       </div>
     );
   }
