@@ -507,7 +507,7 @@ img {
   background-color: #666;
   padding-top: 100px;
   padding-bottom: 100px;
-  background: url(img/photo-slider-1.jpg) 0 0 no-repeat;
+  background: url("img/photo-slider-1.jpg") 0 0 no-repeat;
   background-size: cover;
   z-index: 1; }
   .works:before {

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from '../img/logo.png';
 
 class Navbar extends Component {
   render() {
@@ -29,7 +28,7 @@ class Navbar extends Component {
           <div className="container">
             <div className="row flex-j-sb flex-y-center">
               <div className="col-xs-12 col-sm-2 logo">
-                <img src={logo} />
+                <img src="img/logo.png" />
               </div>
               <div className="col-xs-12 col-sm-10 navbar-menu-left">
                 <ul className="navbar-menu-left-list">
