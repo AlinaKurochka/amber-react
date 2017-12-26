@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import Advertising from './components/Advertising';
-import Works from './components/Works';
-import Amber from './components/Amber';
-import Features from './components/Features';
-import ReviewSection from './components/ReviewSection';
-import BlogSection from './components/BlogSection';
-import ExperienceSection from './components/ExperienceSection';
-import TeamSection from './components/TeamSection';
-import Footer from './components/Footer';
+import Navbar from './sections/Navbar';
+import Header from './sections/Header';
+import Advertising from './sections/Advertising';
+import Works from './sections/Works';
+import Amber from './sections/Amber';
+import Features from './sections/Features';
+import ReviewSection from './sections/ReviewSection';
+import BlogSection from './sections/BlogSection';
+import ExperienceSection from './sections/ExperienceSection';
+import TeamSection from './sections/TeamSection';
+import Footer from './sections/Footer';
 
 import './css/bootstrap.css';
 import './App.css';
