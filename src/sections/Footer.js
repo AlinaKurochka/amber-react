@@ -24,7 +24,7 @@ class Footer extends Component {
                   <span className="footer-inner-list-text-span">Email:</span>info@ambertheme.com
                 </li>
                 <li>
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d20754.492253936176!2d32.0637525!3d49.4408287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sua!4v1511897508074" width="212" height="149" frameborder="0" allowfullscreen className="footer-map">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d20754.492253936176!2d32.0637525!3d49.4408287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sua!4v1511897508074" width="212" height="149" frameBorder="0" allowFullScreen className="footer-map">
                   </iframe>
                 </li>
               </ul>
