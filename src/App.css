@@ -290,7 +290,7 @@ img {
       left: 0; }
 
 .height-vh img {
-  min-height: 100vh;
+  height: 100%;
   width: 100%;
   object-fit: cover; }
 
