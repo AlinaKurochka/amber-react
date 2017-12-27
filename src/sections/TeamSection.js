@@ -3,7 +3,7 @@ import TeamMember from '../components/TeamMember';
 
 class TeamSection extends Component {
 	constructor(props){
-		super(props)
+		super(props);
 		this.state = {
 			title: 'Our Team',
 			team: [
